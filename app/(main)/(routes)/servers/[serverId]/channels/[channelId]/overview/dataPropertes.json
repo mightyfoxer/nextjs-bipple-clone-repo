@@ -1,0 +1,24 @@
+{
+    "resource":[
+        {
+            "section":"Backgroud",
+            "color":"Grey",
+            "percent":"2%"
+        },
+        {
+            "section":"Body",
+            "color":"Iron",
+            "percent":"2%"
+        },
+        {
+            "section":"Face",
+            "color":"Mask",
+            "percent":"2%"
+        },
+        {
+            "section":"Backgroud",
+            "color":"Grey",
+            "percent":"2%"
+        }
+    ]
+}

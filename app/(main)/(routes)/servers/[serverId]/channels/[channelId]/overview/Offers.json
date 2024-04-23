@@ -1,0 +1,46 @@
+{
+  "Offers": [
+    {
+      "Price": "181",
+      "From": "Ox63Z...2dcd1",
+      "Expires": "Dec 18, 18:12",
+      "Floor difference": "23%",
+      "State": 1
+    },
+    {
+      "Price": "181",
+      "From": "Ox63Z...2dcd1",
+      "Expires": "Dec 18, 18:12",
+      "Floor difference": "23%",
+      "State": 2
+    },
+    {
+      "Price": "181",
+      "From": "Ox63Z...2dcd1",
+      "Expires": "Dec 18, 18:12",
+      "Floor difference": "23%",
+      "State": 1
+    },
+    {
+      "Price": "181",
+      "From": "Ox63Z...2dcd1",
+      "Expires": "Dec 18, 18:12",
+      "Floor difference": "23%",
+      "State": 0
+    },
+    {
+      "Price": "181",
+      "From": "Ox63Z...2dcd1",
+      "Expires": "Dec 18, 18:12",
+      "Floor difference": "23%",
+      "State": 2
+    },
+    {
+      "Price": "181",
+      "From": "Ox63Z...2dcd1",
+      "Expires": "Dec 18, 18:12",
+      "Floor difference": "23%",
+      "State": 0
+    }
+  ]
+}
